@@ -1,0 +1,175 @@
+.App {
+  text-align: center;
+}
+
+.Circular1 {
+  background-color: rgb(213, 115, 222);
+  border-radius: 100%;
+  font-size: 24px;
+  height: 250px;
+  width: 250px;
+  border: none;
+  position: absolute;
+  top: 250px;
+  left: 600px;
+}
+
+.Circular1:hover {
+  background-color: rgba(158, 92, 158, 0.59);
+  cursor: pointer;
+}
+
+.Circular2 {
+  background-color: rgb(213, 115, 222);
+  border-radius: 100%;
+  font-size: 24px;
+  height: 200px;
+  width: 200px;
+  border: none;
+  position: absolute;
+  top: 265px;
+  left: 390px;
+}
+
+.Circular2:hover {
+  background-color: rgba(158, 92, 158, 0.59);
+  cursor: pointer;
+
+}.Circular3 {
+  background-color: rgb(213, 115, 222);
+  border-radius: 100%;
+  font-size: 24px;
+  height: 185px;
+  width: 185px;
+  border: none;
+  position: absolute;
+  top: 460px;
+  left: 800px;
+}
+
+.Circular3:hover {
+  background-color: rgba(158, 92, 158, 0.59);
+  cursor: pointer;
+}
+
+.Circular4 {
+  background-color: rgb(213, 115, 222);
+  border-radius: 100%;
+  font-size: 24px;
+  height: 150px;
+  width: 150px;
+  border: none;
+  position: absolute;
+  top: 300px;
+  left: 870px;
+}
+
+.Circular4:hover {
+  background-color: rgba(158, 92, 158, 0.59);
+  cursor: pointer;
+}
+
+.Circular5 {
+  background-color: rgb(213, 115, 222);
+  border-radius: 100%;
+  font-size: 24px;
+  height: 140px;
+  width: 140px;
+  border: none;
+  position: absolute;
+  top: 480px;
+  left: 500px;
+}
+
+.Circular5:hover {
+  background-color: rgba(158, 92, 158, 0.59);
+  cursor: pointer;
+}
+
+.Circular6 {
+  background-color: rgb(213, 115, 222);
+  border-radius: 100%;
+  font-size: 24px;
+  height: 115px;
+  width: 115px;
+  border: none;
+  position: absolute;
+  top: 150px;
+  left: 550px;
+}
+
+.Circular6:hover {
+  background-color: rgba(158, 92, 158, 0.59);
+  cursor: pointer;
+}
+
+.Circular7 {
+  background-color: rgb(213, 115, 222);
+  border-radius: 100%;
+  font-size: 24px;
+  height: 100px;
+  width: 100px;
+  border: none;
+  position: absolute;
+  top: 150px;
+  left: 800px;
+}
+
+.Circular7:hover {
+  background-color: rgba(158, 92, 158, 0.59);
+  cursor: pointer;
+}
+
+.Circular8 {
+  background-color: rgb(213, 115, 222);
+  border-radius: 100%;
+  font-size: 24px;
+  height: 90px;
+  width: 90px;
+  border: none;
+  position: absolute;
+  top: 560px;
+  left: 670px;
+}
+
+.Circular8:hover {
+  background-color: rgba(158, 92, 158, 0.59);
+  cursor: pointer;
+}
+
+
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
